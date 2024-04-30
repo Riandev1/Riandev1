@@ -1,7 +1,7 @@
 
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From FullStack development using| HTML | CSS | React | JavaScript | TypeScrip. to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From FullStack development Javascript |Typescript | Python | Rest | ReactJs| Docker | Node.js | Sql | Express.. to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=dracula&count_private=true)
 
