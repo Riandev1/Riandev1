@@ -2,12 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-"Olá! Me chamo Osnaldo Rian, sou desenvolvedor Full Stack formado pela Trybe, onde conclui uma formação completa em desenvolvimento web FullStack — com todas as certificações disponíveis no meu LinkedIn.
+Olá! Me chamo Osnaldo Rian, sou desenvolvedor Full Stack formado pela Trybe, onde conclui uma formação completa em desenvolvimento web FullStack — com todas as certificações disponíveis no meu LinkedIn.
 
 Sou apaixonado por tecnologia, aprendizado contínuo e pela transformação que a programação pode gerar na vida das pessoas. Tenho sólidos conhecimentos em JavaScript, React, Node.js, TypeScript, Docker, SQL, entre outras tecnologias do ecossistema web.
 
 Gosto de construir projetos práticos, explorar novas ferramentas e contribuir com a comunidade dev sempre que possível.
-Atualmente, estou aberto a oportunidades de trabalho, buscando desafios que me façam evoluir ainda mais como profissional.".
+Atualmente, estou aberto a oportunidades de trabalho, buscando desafios que me façam evoluir ainda mais como profissional.
 
 <p align="left">
     <a href="https://www.youtube.com/@riandevstudio">
