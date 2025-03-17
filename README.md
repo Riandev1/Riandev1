@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rian Silva
+# 👨‍💻 Rian Silva
 
 **`Desenvolvedor FullStack`**
 
