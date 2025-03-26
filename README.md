@@ -1,13 +1,16 @@
+Aqui está o README para o seu GitHub, ajustado de forma a destacar suas hard skills e sua jornada como desenvolvedor:
+
+---
+
 # 👨‍💻 Rian Silva
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
-Olá! Me chamo O Rian, sou desenvolvedor Full Stack formado pela Trybe, onde conclui uma formação completa em desenvolvimento web Full Stack — com todas as certificações disponíveis no meu LinkedIn.
+Olá! Me chamo Rian, sou desenvolvedor Full Stack formado pela Trybe, onde concluí uma formação completa em desenvolvimento web Full Stack — com todas as certificações disponíveis no meu LinkedIn.
 
-Sou apaixonado por tecnologia, aprendizado contínuo e pela transformação que a programação pode gerar na vida das pessoas. Tenho sólidos conhecimentos em JavaScript, React, Node.js, TypeScript, Docker, SQL, entre outras tecnologias do ecossistema web.
+Sou apaixonado por tecnologia, aprendizado contínuo e pela transformação que a programação pode gerar na vida das pessoas. Tenho sólidos conhecimentos em **JavaScript**, **React**, **Node.js**, **TypeScript**, **Docker**, **SQL**, entre outras tecnologias do ecossistema web.
 
-Gosto de construir projetos práticos, explorar novas ferramentas e contribuir com a comunidade dev sempre que possível.
-Atualmente, estou aberto a oportunidades de trabalho, buscando desafios que me façam evoluir ainda mais como profissional.
+Gosto de construir projetos práticos, explorar novas ferramentas e contribuir com a comunidade dev sempre que possível. Atualmente, estou aberto a oportunidades de trabalho, buscando desafios que me façam evoluir ainda mais como profissional.
 
 <p align="left">
     <a href="https://www.youtube.com/@riandevstudio">
@@ -43,6 +46,8 @@ Atualmente, estou aberto a oportunidades de trabalho, buscando desafios que me f
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia como desenvolvedor:
 
 <img 
     align="left" 
@@ -154,6 +159,8 @@ Atualmente, estou aberto a oportunidades de trabalho, buscando desafios que me f
 
 ### 📊 Estatísticas
 
+Aqui estão algumas estatísticas do meu GitHub para que você possa ver o meu progresso e as tecnologias que mais utilizo:
+
 <p>
   <img 
     align="left" 
@@ -171,3 +178,4 @@ Atualmente, estou aberto a oportunidades de trabalho, buscando desafios que me f
   />
 
 </p>
+
