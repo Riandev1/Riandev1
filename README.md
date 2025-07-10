@@ -1,4 +1,4 @@
-Aqui está o README para o seu GitHub, ajustado de forma a destacar suas hard skills e sua jornada como desenvolvedor:
+
 
 ---
 
