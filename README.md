@@ -1,4 +1,3 @@
----
 
 # 👨‍💻 Rian Silva  
 
@@ -77,5 +76,3 @@ Aqui estão algumas estatísticas do meu GitHub para que você possa ver o meu p
     align="left" alt="GitHub Stats" height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>  
 </p>  
-
----
