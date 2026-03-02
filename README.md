@@ -1,78 +1,49 @@
+Rian Silva
 
-# 👨‍💻 Rian Silva  
+Software Engineer | Backend Systems | Systems Integration | Databases
 
-**`Desenvolvedor Full Stack | JavaScript | React | Node.js | TypeScript`**  
+Engenheiro de Software com foco em desenvolvimento de sistemas backend, integração de aplicações e modelagem de banco de dados para ambientes estruturados.
 
-Sou **Desenvolvedor Full Stack**, formado em **Engenharia de Software** e apaixonado por tecnologia e aprendizado contínuo.  
-Acredito no poder da programação para transformar ideias em soluções reais e impactar positivamente a vida das pessoas.  
+Experiência na construção de APIs REST, organização arquitetural e manutenção de aplicações com foco em estabilidade, performance e escalabilidade. Atuação aplicando princípios como Clean Architecture, SOLID e versionamento estruturado com Git.
 
-Tenho experiência prática em **JavaScript, React, Node.js, TypeScript, Docker e SQL**, além de outras ferramentas do ecossistema web.  
-Meu foco é construir aplicações que unam **performance, escalabilidade e boa experiência do usuário**.  
+Áreas de Atuação
 
-Gosto de desenvolver **projetos práticos**, explorar novas ferramentas e compartilhar conhecimento com a comunidade dev.  
-Atualmente, estou **aberto a oportunidades de trabalho**, buscando desafios que me façam evoluir ainda mais como profissional.  
+Desenvolvimento de APIs REST
 
----
+Integração entre sistemas
 
-### 🤖 Linguagens e Tecnologias  
+Modelagem e otimização de banco de dados
 
-Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia como desenvolvedor:  
+Arquitetura de software
 
-<img 
-    align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
-<img 
-    align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  
-<img 
-    align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
-<img 
-    align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>  
-<img 
-    align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
-<img 
-    align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>  
-<img 
-    align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>  
-<img 
-    align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>  
-<img 
-    align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>  
-<img 
-    align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>  
-<img 
-    align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>  
-<img 
-    align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
-<img 
-    align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  
+Estruturação e manutenção de aplicações
 
-<br/>
-<br/>
+Automação e organização de ambientes
 
----
+Stack Principal
+Backend
 
-### 📊 Estatísticas  
+Node.js
+TypeScript
+Express
+PostgreSQL
+MongoDB
 
-Aqui estão algumas estatísticas do meu GitHub para que você possa ver o meu progresso e as tecnologias que mais utilizo:  
+Infraestrutura
 
-<p>
-  <img 
-    align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>  
+Docker
+Git
+CI/CD
 
-  <img 
-    align="left" alt="GitHub Stats" height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>  
-</p>  
+Perfil Profissional
+
+Interesse em desenvolvimento e manutenção de sistemas corporativos, integração de processos e melhoria contínua de soluções tecnológicas.
+
+Foco em organização, qualidade de código e confiabilidade de sistemas.
+
+Estatísticas
+<p> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&theme=tokyonight&layout=compact"/>
+
+</p>
