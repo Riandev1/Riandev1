@@ -1,10 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:3b82f6&text=Rian%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a8a,100:2563eb&text=Rian%20Silva&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=3000&color=60A5FA&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Architecture;Frontend+Development;Systems+Integration;Clean+Architecture+%7C+SOLID+%7C+Scalability;Node.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=3000&color=60A5FA&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Architecture;Frontend+Development;REST+API+Development;Systems+Integration;Node.js+%7C+React+%7C+TypeScript+%7C+PostgreSQL"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Riandev1&label=Profile%20Views&color=3b82f6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+# Clean Architecture | SOLID | Scalability
 
 </div>
 
@@ -15,7 +27,7 @@
 ```ts
 const rian = {
   role: "Full Stack Engineer",
-  
+
   focus: [
     "Backend Development",
     "Frontend Applications",
@@ -26,17 +38,36 @@ const rian = {
   ],
 
   technologies: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend: ["Node.js", "Express"],
-    database: ["PostgreSQL", "MongoDB"],
-    infrastructure: ["Docker", "Git", "CI/CD", "Linux"]
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express"
+    ],
+
+    database: [
+      "PostgreSQL",
+      "MongoDB"
+    ],
+
+    infrastructure: [
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Linux"
+    ]
   },
 
   architecture: [
     "Clean Architecture",
     "SOLID",
-    "Scalability",
     "Performance",
+    "Scalability",
     "Code Organization"
   ]
 }
@@ -48,19 +79,19 @@ const rian = {
 
 <div align="center">
 
-### Frontend
+## Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css,js" />
 
 ---
 
-### Backend
+## Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
 
 ---
 
-### Infrastructure & Tools
+## Infrastructure & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 
@@ -100,7 +131,7 @@ const rian = {
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -110,13 +141,43 @@ const rian = {
 
 ---
 
-# 🐍 Contribution Snake
+# 💼 Featured Projects
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Riandev1/Riandev1/output/snake.svg" alt="Snake animation" />
+| Project | Description | Stack |
+|---|---|---|
+| FiveM Scripts Store | Premium systems and scripts for FiveM roleplay servers | Lua, Node.js, MySQL |
+| Economy Management Panel | Full economy administration panel with logs and controls | TypeScript, PostgreSQL |
+| REST API Structure | Scalable backend template using clean architecture | Node.js, Express |
+| Dashboard System | Modern admin dashboard with responsive UI | React, TailwindCSS |
+| Server Integration Services | Integration between game services and APIs | Node.js, MongoDB |
 
 </div>
+
+---
+
+# 📈 Development Focus
+
+```yaml
+Backend Engineering:
+  - REST APIs
+  - Authentication Systems
+  - Database Optimization
+  - Server Architecture
+
+Frontend Development:
+  - Responsive Interfaces
+  - Dashboard Systems
+  - Modern UI/UX
+  - Component Architecture
+
+Infrastructure:
+  - Docker Containers
+  - Git Workflow
+  - CI/CD Pipelines
+  - Linux Environment
+```
 
 ---
 
@@ -125,7 +186,7 @@ const rian = {
 <div align="center">
 
 <a href="https://github.com/Riandev1">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
@@ -134,10 +195,8 @@ const rian = {
 
 <div align="center">
 
-### Building scalable applications with clean architecture.
-
-<img src="https://komarev.com/ghpvc/?username=Riandev1&label=Profile%20Views&color=3b82f6&style=for-the-badge" />
+### Building scalable full stack applications with clean architecture.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:3b82f6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:2563eb"/>
