@@ -1,204 +1,145 @@
+```md
+<h1 align="center">👋 Olá, eu sou Rian Silva</h1>
+
+<h3 align="center">
+Full Stack Developer • React • Next.js • TypeScript • Node.js
+</h3>
+
+<p align="center">
+Desenvolvedor Full Stack focado na construção de aplicações web modernas, performáticas e escaláveis.
+</p>
+
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Rian%20Silva&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=62"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV6NnF3dW9xODlyMjVwMDF2ZjM3b2J4ODV4ODJrZm5mOXo4NnJ0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
-Sou Desenvolvedor Full Stack focado em criar aplicações modernas, performáticas e escaláveis.
+### 🚀 Sobre Mim
 
-🎓 Estudante de Engenharia de Software
-
-📍 Recife - Pernambuco
-
-🚀 Especializado em React, Next.js, TypeScript e Node.js
-
-💡 Interesse em Arquitetura de Software, Backend, Banco de Dados e Produtos Digitais
+- 🎓 Estudante de Engenharia de Software
+- 📍 Recife - Pernambuco
+- 💻 Full Stack Developer
+- ⚡ Especializado em React, Next.js, TypeScript e Node.js
+- 📚 Aprendendo Arquitetura de Software e Backend Avançado
+- 🎯 Em busca da primeira oportunidade como Desenvolvedor Full Stack
 
 ---
 
-# ⚡ Tech Stack
+### 🛠️ Tecnologias
 
-<div align="center">
+<div align="left">
 
-### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+<img width="10"/>
 
-### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img width="10"/>
 
-### Banco de Dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img width="10"/>
 
-### Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
 
 </div>
 
 ---
 
-# 🚀 Projetos Destacados
+### 🚀 Projetos em Destaque
 
-<table>
-<tr>
+#### 🌐 Portfolio
 
-<td width="50%">
+Aplicação desenvolvida com Next.js, TypeScript e Tailwind CSS para apresentação profissional de projetos e habilidades.
 
-## 🌐 Portfolio
-
-Aplicação construída com Next.js, TypeScript e Tailwind CSS.
-
-### Tecnologias
-
-Next.js • TypeScript • Tailwind
-
-### Links
-
-🌎 Portfolio Online
-
-💻 Código Fonte
-
-</td>
-
-<td width="50%">
-
-## ⚽ Football Club
-
-Sistema completo de gerenciamento de partidas.
-
-### Tecnologias
-
-Node.js • Express • TypeScript
-
-### Recursos
-
-✔ API REST
-
-✔ Autenticação
-
-✔ Banco de Dados
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 💰 Wallet App
-
-Aplicação de controle financeiro.
-
-### Tecnologias
-
-React • Redux • JavaScript
-
-### Recursos
-
-✔ Controle de despesas
-
-✔ Consumo de APIs
-
-✔ Conversão de moedas
-
-</td>
-
-<td width="50%">
-
-## 🚧 Building Now
-
-Financial SaaS Dashboard
-
-### Stack
-
-Next.js
-
-PostgreSQL
-
-Prisma
-
-TypeScript
-
-Dashboard Analytics
-
-</td>
-
-</tr>
-</table>
+🔗 https://riansilva-github-io.vercel.app
 
 ---
 
-# 📊 GitHub Overview
+#### ⚽ Trybe Futebol Clube
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+API REST desenvolvida com Node.js, Express e TypeScript para gerenciamento de partidas e classificação.
 
 ---
 
-# 📈 Contribution Graph
+#### 💰 Trybe Wallet
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riandev1&theme=github-dark&hide_border=true"/>
-
-</div>
+Aplicação de controle financeiro utilizando React, Redux e integração com APIs externas.
 
 ---
 
-# 🎯 Atualmente Estudando
+#### 🚧 Projeto Atual
 
-- Arquitetura de Software
-- TypeScript Avançado
+SaaS Financeiro
+
+Stack:
+
+- Next.js
 - PostgreSQL
-- Docker
-- Backend com Node.js
-- Boas práticas de desenvolvimento
+- Prisma
+- TypeScript
+- Dashboard Analytics
 
 ---
 
-# 🎯 Objetivos
-
-✅ Evoluir como Full Stack Developer
-
-✅ Construir aplicações escaláveis
-
-✅ Trabalhar em produtos digitais de impacto
-
-✅ Aprimorar arquitetura frontend e backend
-
-✅ Contribuir para projetos open source
-
----
-
-# 🌎 Contato
+### 📈 Activity Graph
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riandev1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+### 🌎 Contato
+
+<div align="left">
 
 <a href="https://www.linkedin.com/in/rian-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:devriancontato@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://riansilva-github-io.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -207,8 +148,7 @@ Dashboard Analytics
 
 <div align="center">
 
-### 🚀 Building the future, one project at a time.
+### 🚀 Building the future, one commit at a time.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
+```
