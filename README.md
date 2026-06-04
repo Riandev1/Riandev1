@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Rian%20Silva&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Rian%20Silva&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=62"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,15 +10,15 @@
 
 # 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações modernas, escaláveis e focadas na experiência do usuário.
+Sou Desenvolvedor Full Stack focado em criar aplicações modernas, performáticas e escaláveis.
 
-🎓 Engenharia de Software
+🎓 Estudante de Engenharia de Software
 
-📍 Recife - PE, Brasil
+📍 Recife - Pernambuco
 
-🚀 Especializado em aplicações web utilizando React, Next.js, TypeScript e Node.js
+🚀 Especializado em React, Next.js, TypeScript e Node.js
 
-💡 Interesse em Arquitetura de Software, Backend, Performance e Produtos Digitais
+💡 Interesse em Arquitetura de Software, Backend, Banco de Dados e Produtos Digitais
 
 ---
 
@@ -34,11 +34,11 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações modernas, 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Database
+### Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-### Tools
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
 
@@ -50,75 +50,124 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações modernas, 
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 
-Portfólio profissional desenvolvido com Next.js, TypeScript e Tailwind CSS.
+Aplicação construída com Next.js, TypeScript e Tailwind CSS.
 
-🔗 https://riansilva-github-io.vercel.app
+### Tecnologias
+
+Next.js • TypeScript • Tailwind
+
+### Links
+
+🌎 Portfolio Online
+
+💻 Código Fonte
 
 </td>
 
 <td width="50%">
 
-### ⚽ Trybe Futebol Clube
+## ⚽ Football Club
 
-Sistema de gerenciamento de partidas com API REST desenvolvida em Node.js.
+Sistema completo de gerenciamento de partidas.
+
+### Tecnologias
+
+Node.js • Express • TypeScript
+
+### Recursos
+
+✔ API REST
+
+✔ Autenticação
+
+✔ Banco de Dados
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 💰 Trybe Wallet
+## 💰 Wallet App
 
-Aplicação de controle financeiro utilizando React e Redux.
+Aplicação de controle financeiro.
+
+### Tecnologias
+
+React • Redux • JavaScript
+
+### Recursos
+
+✔ Controle de despesas
+
+✔ Consumo de APIs
+
+✔ Conversão de moedas
 
 </td>
 
 <td width="50%">
 
-### 🔥 Próximo Projeto
+## 🚧 Building Now
 
-SaaS Financeiro com Next.js, PostgreSQL, Prisma e Dashboard Analytics.
+Financial SaaS Dashboard
+
+### Stack
+
+Next.js
+
+PostgreSQL
+
+Prisma
+
+TypeScript
+
+Dashboard Analytics
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riandev1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riandev1&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 🎯 Atualmente Estudando
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riandev1&theme=tokyo-night&hide_border=true"/>
-
-</div>
+- Arquitetura de Software
+- TypeScript Avançado
+- PostgreSQL
+- Docker
+- Backend com Node.js
+- Boas práticas de desenvolvimento
 
 ---
 
@@ -128,15 +177,15 @@ SaaS Financeiro com Next.js, PostgreSQL, Prisma e Dashboard Analytics.
 
 ✅ Construir aplicações escaláveis
 
-✅ Aprimorar arquitetura frontend e backend
+✅ Trabalhar em produtos digitais de impacto
 
-✅ Trabalhar em produtos digitais de grande impacto
+✅ Aprimorar arquitetura frontend e backend
 
 ✅ Contribuir para projetos open source
 
 ---
 
-# 🌎 Conecte-se Comigo
+# 🌎 Contato
 
 <div align="center">
 
@@ -158,8 +207,8 @@ SaaS Financeiro com Next.js, PostgreSQL, Prisma e Dashboard Analytics.
 
 <div align="center">
 
-### 🚀 Building the future, one commit at a time.
+### 🚀 Building the future, one project at a time.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
