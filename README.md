@@ -1,154 +1,107 @@
-```md
-<h1 align="center">👋 Olá, eu sou Rian Silva</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • React • Next.js • TypeScript • Node.js
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Rian%20Silva&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=62"/>
 
-<p align="center">
+
+<h3>Full Stack Developer • React • Next.js • TypeScript • Node.js</h3>
+
+<p>
 Desenvolvedor Full Stack focado na construção de aplicações web modernas, performáticas e escaláveis.
 </p>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Riandev1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riandev1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
 </div>
-
----
-
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV6NnF3dW9xODlyMjVwMDF2ZjM3b2J4ODV4ODJrZm5mOXo4NnJ0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
-
-### 🚀 Sobre Mim
 
 - 🎓 Estudante de Engenharia de Software
-- 📍 Recife - Pernambuco
-- 💻 Full Stack Developer
+- 📍 Recife - Pernambuco, Brasil
+- 💻 Desenvolvedor Full Stack
 - ⚡ Especializado em React, Next.js, TypeScript e Node.js
-- 📚 Aprendendo Arquitetura de Software e Backend Avançado
-- 🎯 Em busca da primeira oportunidade como Desenvolvedor Full Stack
+- 📚 Estudando Arquitetura de Software, Backend e Banco de Dados
+- 🎯 Em busca de oportunidades para atuar como Desenvolvedor Full Stack
 
 ---
 
-### 🛠️ Tecnologias
+# 🌎 Conecte-se comigo
 
-<div align="left">
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riansilva-github-io.vercel.app)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rian-dev)
 
-<img width="10"/>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Rianzeragg)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_riantech)
 
 ---
 
-### 🚀 Projetos em Destaque
+# 🚀 Featured Projects
 
-#### 🌐 Portfolio
+### 🌐 Portfolio
 
-Aplicação desenvolvida com Next.js, TypeScript e Tailwind CSS para apresentação profissional de projetos e habilidades.
+Portfólio profissional desenvolvido com Next.js, TypeScript e Tailwind CSS.
 
 🔗 https://riansilva-github-io.vercel.app
 
 ---
 
-#### ⚽ Trybe Futebol Clube
+### ⚽ Trybe Futebol Clube
 
-API REST desenvolvida com Node.js, Express e TypeScript para gerenciamento de partidas e classificação.
+Sistema completo de gerenciamento de partidas.
 
----
-
-#### 💰 Trybe Wallet
-
-Aplicação de controle financeiro utilizando React, Redux e integração com APIs externas.
+**Stack:**
+Node.js • Express • TypeScript • MySQL
 
 ---
 
-#### 🚧 Projeto Atual
+### 💰 Trybe Wallet
 
-SaaS Financeiro
+Aplicação para controle financeiro.
 
-Stack:
+**Stack:**
+React • Redux • JavaScript
+
+---
+
+### 🚧 Atualmente Construindo
+
+Financial SaaS Dashboard
+
+**Stack:**
 
 - Next.js
+- TypeScript
 - PostgreSQL
 - Prisma
-- TypeScript
 - Dashboard Analytics
 
 ---
 
-### 📈 Activity Graph
+# 💻 Tech Stack
 
-<div align="center">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riandev1&theme=tokyo-night&hide_border=true"/>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-</div>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🌎 Contato
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<div align="left">
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<a href="https://www.linkedin.com/in/rian-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<a href="mailto:devriancontato@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<a href="https://riansilva-github-io.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Riandev1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Riandev1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riandev1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 Building the future, one commit at a time.
-
-</div>
-```
